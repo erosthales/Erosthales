@@ -2,7 +2,7 @@
 
 **`Data Developer`**
 
-Me chamo Eros Thales, tenho 28 anos e sou de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas e sou apaixonada por tecnologia — especialmente nas áreas de engenharia de dados e machine learning. Gosto de transformar dados em soluções e de explorar desde a coleta até a modelagem e visualização.
+Me chamo Eros Thales, tenho 28 anos e sou de São Paulo. Atualmente curso Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia — especialmente nas áreas de engenharia de dados e machine learning. Gosto de transformar dados em soluções e de explorar desde a coleta até a modelagem e visualização.
 
 ---
 
