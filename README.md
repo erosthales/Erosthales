@@ -2,7 +2,7 @@
 
 **`Data Developer`**
 
-My name is Eros Thales, I am 29 years old and I am from São Paulo, Brazil. I am currently studying Systems Analysis and Development and I am passionate about technology — especially in the fields of data engineering and machine learning. I enjoy transforming data into solutions and exploring the entire data journey, from collection and processing to modeling and visualization.
+My name is Eros Thales, I am 30 years old and I am from São Paulo, Brazil. I am currently studying Systems Analysis and Development and I am passionate about technology — especially in the fields of data engineering and machine learning. I enjoy transforming data into solutions and exploring the entire data journey, from collection and processing to modeling and visualization.
 
 
 ---
